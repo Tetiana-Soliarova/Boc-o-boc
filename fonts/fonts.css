@@ -1,0 +1,17 @@
+/* Regular */
+
+@font-face {
+    font-family: 'URWGeometric';
+    src: local('URWGeometric'); 
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* Bold */
+
+@font-face {
+    font-family: 'URWGeometric';
+    src: local('URWGeometric'); 
+    font-weight: 700;
+    font-style: normal;
+}
