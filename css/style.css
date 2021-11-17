@@ -49,8 +49,49 @@ line-height: 27px;
 .navbar-toggler {
   border: none;
 } 
-/*////section 6////*/
 
+/*section1*/
+.section1{
+  margin-top: 92px;
+   background-image: url(../images/section1.jpg);
+   background-size: 100%;
+  background-repeat: no-repeat;
+
+  
+  background-position: center center;
+
+ }
+ .text-container{
+   padding-top: 112px;
+   padding-bottom: 252px;
+ }
+.text-success{
+   color: #00CC99!important;
+ }
+/*section 2*/
+.tex{
+   margin-bottom: 120px;
+   margin-top: 190px;
+ }
+/*section 3*/
+.section3{
+   background-image: url(../images/illustration.jpg) ;
+    background-size: 100%;
+  background-repeat: no-repeat;
+
+  
+  background-position: center center;
+ }
+ .section3 h2{
+   padding-top: 400px;
+   padding-bottom: 172px;
+ }
+
+/*////section 6////*/
+.tabl-text{
+  padding-bottom: 130px;
+  margin-bottom: 0px;
+}
 .jumbotron{
     background: white;
 }
@@ -64,7 +105,7 @@ color: rgba(51, 51, 153, 0.2);
 .card{
     max-width: 430px;
     min-width: 320px !important;
-    padding: 3.7rem;
+   /* padding: 3.7rem;*/
     border: 1px solid rgba(51, 51, 153, 0.2);
   box-sizing: border-box;
   border-radius: 23px !important;
