@@ -73,6 +73,10 @@ line-height: 27px;
    margin-bottom: 120px;
    margin-top: 190px;
  }
+ .svg-profil{
+   width: 60px;
+   height: 60px;
+ }
 /*section 3*/
 .section3{
    background-image: url(../images/illustration.jpg) ;
@@ -83,8 +87,8 @@ line-height: 27px;
   background-position: center center;
  }
  .section3 h2{
-   padding-top: 400px;
-   padding-bottom: 172px;
+   padding-top: 25rem;
+   padding-bottom: 10.75rem;
  }
 /*section5*/
 .section5{
@@ -118,7 +122,6 @@ color: rgba(51, 51, 153, 0.2);
 .card{
     max-width: 430px;
     min-width: 320px !important;
-   /* padding: 3.7rem;*/
     border: 1px solid rgba(51, 51, 153, 0.2);
   box-sizing: border-box;
   border-radius: 23px !important;
