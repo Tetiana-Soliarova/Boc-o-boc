@@ -53,6 +53,9 @@ line-height: 27px;
   border: none;
 } 
 
+a{
+  color: #333399;
+}
 /*section1*/
 .section1{
   margin-top: 92px;
@@ -82,16 +85,18 @@ line-height: 27px;
  }
 /*section 3*/
 .section3{
+  height: 100%;
    background-image: url(../images/illustration.jpg) ;
     background-size: 100%;
   background-repeat: no-repeat;
 
   
-  background-position: center center;
+  /*background-position: center center;*/
  }
  .section3 h2{
-  /* padding-top: 25rem;*/
-   padding-bottom: 10.75rem;
+  
+   padding-top: 20rem;
+  padding-bottom: 10.75rem;
    margin-left: 10px;
 
   /*max-width: 571px;*/
